@@ -1,6 +1,6 @@
-# Hotel-Administration (C++)
+# Hotel Administration (C++)
 This project is a mini-version of a hotel organization software.
-<br> By — Faruq Hammed, Seij Bailey, Christabel Agbugba, Damontae Warren
+<br> By — Faruq Hammed (Project Manager), Seij Bailey, Christabel Agbugba, Damontae Warren
 <br> Date — April 28th 2019
 <br> Technology Used: C++
 
